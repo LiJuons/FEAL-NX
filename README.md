@@ -7,4 +7,4 @@
 
 
 
-*Project was done with a help from friend.^
+*Project was done with a help from friend.*
