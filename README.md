@@ -6,7 +6,7 @@
 
 **To run decryption, use: 'java fealnx -d outputFileName -k keyFileName -o outputFileName'**
 
-###### For input please use hexadecimal values from the test-vectors.txt file.
+*For input please use hexadecimal values from the test-vectors.txt file.*
 
 
-*This project was done with a help from a friend.*
+###### This project was done with a help from a friend.
